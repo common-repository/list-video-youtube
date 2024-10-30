@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gsllv-widget.php conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-10 13:55+0000\n"
+"PO-Revision-Date: 2016-10-10 14:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Unknown\n"
+"Language: zxx\n"
+"Plural-Forms: nplurals=2; plural=n!=1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: es_ES\n"
+"X-Loco-Parser: loco_parse_php\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "List Video Youtube"
+msgstr "Lista Videos Youtube"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.josejavierfm.es"
+msgstr "http://www.josejavierfm.es/gsllv"
+
+#. Description of the plugin
+msgid "Widget con la lista de videos de un canal de youtube"
+msgstr "Widget con la lista de videos de un canal de youtube"
+
+#. Author of the plugin
+msgid "José Javier Fernández Mendoza"
+msgstr "José Javier Fernández Mendoza"
+
+#: stdin:49
+msgid "ultimo_video_titulo"
+msgstr "Lista &uacute;ltimos videos"
+
+#: stdin:55
+msgid "no_video"
+msgstr "No hay video"
+
+#: stdin:59
+msgid "canal_sin_configurar"
+msgstr "Canal sin configurar"
+
+#: stdin:79
+msgid "id_del_canal"
+msgstr "ID del canal"
+
+#: stdin:103
+msgid "sin_permiso_php"
+msgstr "No tiene permiso PHP"
+
+#: stdin:103
+msgid "limite_videos"
+msgstr "N&uacute;mero de videos"
+
+
